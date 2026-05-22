@@ -32,3 +32,15 @@ Data Processing: Pandas, NumPy
 Automation Elements: Playwright / BeautifulSoup4
 
 Storage Matrix: Local SQLite DB / CSV Ingestion
+
+📦 Quick Setup
+Clone the architecture:
+
+Bash
+git clone [https://github.com/LUCKY322585/smart-market-arbitrage-bot.git](https://github.com/LUCKY322585/smart-market-arbitrage-bot.git)
+cd smart-market-arbitrage-bot
+Execute Ingestion Loop:
+
+Bash
+pip install -r requirements.txt
+python core_pipeline/main_analytics.py
