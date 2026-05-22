@@ -24,3 +24,11 @@ smart-market-arbitrage-bot/
 ├── scrapers/           # Dynamic marketplace automation and browser matrices
 ├── requirements.txt    # Architecture dependencies
 └── README.md           # Documentation
+🛠️ Tech Stack & Requirements
+Language: Python 3.10+
+
+Data Processing: Pandas, NumPy
+
+Automation Elements: Playwright / BeautifulSoup4
+
+Storage Matrix: Local SQLite DB / CSV Ingestion
